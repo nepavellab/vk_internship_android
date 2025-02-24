@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">video_app</string>
+    <string name="logoTitle">Video Player</string>
+    <string name="videoNameTitle">Название:</string>
+    <string name="videoDescriptionTitle">Описание:</string>
+    <string name="clear_cache_button">Clear cache button</string>
+    <string name="empty_screen_title">Нет загруженных видео</string>
+</resources>
