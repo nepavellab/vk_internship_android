@@ -2,7 +2,7 @@
 
 Приложение поддерживает загрузку видео из сети, просмотр видео в портретном и ландшафтном режимах, имеет кнопку очистки кэша и ленты.
 
-<center>
+<div align="center">
     <span style="font-weight: 900; font-size: 25px;">
         WRITE ON
     </span>
@@ -19,7 +19,7 @@
     <span style="font-weight: 900; font-size: 25px;">
         TOOLS & TECHNOLOGIES
     </span>
-</center>
+</div>
 
 - **Glide** &mdash; для кэшеривания и отрисовки превью видео
 - **Dagger 2** &mdash; инъекция зависимостей
@@ -32,6 +32,6 @@
 - &laquo;**Coverr**&raquo; &mdash; использованный API для загрузки видео
 
 <br/>
-<center>
+<div align="center">
     <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" width="200" />
-<center>
+</div>
